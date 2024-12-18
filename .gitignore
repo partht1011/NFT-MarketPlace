@@ -1,0 +1,21 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+# Depyloments
+## Ucomment if you want to save deployments
+deployments/*
+!deployments/.gitkeep
+
+# IDE
+.idea
+
+node_modules
+.env
